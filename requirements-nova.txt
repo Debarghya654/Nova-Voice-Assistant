@@ -1,0 +1,8 @@
+-- Run the command in Terminal --
+
+Install Libraries:
+pip install PyQt5 pyttsx3 SpeechRecognition pyaudio
+
+Run the code:
+cd path/to/your/project
+python voice_assistant_gui.py
